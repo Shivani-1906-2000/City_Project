@@ -1,0 +1,13 @@
+*{margin:0;
+padding:0;
+box-sizing: border-box;}
+
+$x:green;
+$minBlack:#222;
+$minGreen:#82b340;
+$minWhite:#fff;
+$minGrey:#ececec;
+
+body{background: $minGrey;
+color:$minGreen;
+font-family: 'Open Sans';}
